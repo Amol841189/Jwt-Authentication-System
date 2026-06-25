@@ -61,7 +61,9 @@ cd jwt-auth-system
 ### 2. Configure application.properties
 
 spring.datasource.url=jdbc:mysql://localhost:3306/jwt_db
+
 spring.datasource.username=root
+
 spring.datasource.password=YOUR_PASSWORD
 
 jwt.secret=YOUR_SECRET_KEY
