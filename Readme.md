@@ -55,7 +55,7 @@ src/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/jwt-auth-system.git
+git clone https://github.com/Amol841189/jwt-auth-system.git
 cd jwt-auth-system
 
 ### 2. Configure application.properties
@@ -134,41 +134,6 @@ mvn spring-boot:run
 
 ---
 
-## ⭐ If you like this project
-
-Give a ⭐ on GitHub and feel free to contribute!
-
-````
 
 ---
 
-# 🎯 Why this README is “clean”
-
-✔ Clear sections  
-✔ Professional structure  
-✔ Includes architecture  
-✔ API documentation  
-✔ Setup steps  
-✔ Future improvements  
-✔ Recruiter-friendly  
-
----
-
-# 🚀 Pro Tips (Very Important)
-
-To make it EVEN better:
-
-### 1. Add screenshot
-```md
-## 📸 Screenshots
-````
-
-### 2. Add badge
-
-```md
-![Spring Boot](https://img.shields.io/badge/SpringBoot-JWT-green)
-```
-
-### 3. Add live demo link (if deployed)
-
-## 🌐 Live Demo
